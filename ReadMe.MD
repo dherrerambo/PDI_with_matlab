@@ -1,9 +1,11 @@
 # Procesamiento de imagenes
 
 En este repositorio se consolida el procesamiento de imagenes y su posterior analisis y clasificación segun sus caracteristicas.
+- se uso MatLab
 - se realizo la clasificacion manual de tipos de objetos
 - segun el nombre de los archivos ordenados cada 5 archivos es un tipo de objeto
 - para entrenamiento se usaron los primeros 3 objetos y para validacion los 2 ultimos por cada tipo
+- modelos de machine learning usados: Random Fores y Redes Neuronales (ANN)
 
 ## Procesador de Imagenes
 1. Se leen las imágenes de entrenamiento
